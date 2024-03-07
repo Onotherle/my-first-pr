@@ -66,7 +66,7 @@ It does not provide a URL for pull because pulling is the same as a fetch and a 
 
 ### Why are pull requests called "Pull Requests"? (wrong answer)
 
-Pull requests are so named basically because you are asking to pull changes from a remote to your local repository. And that's because you have to ask permission to copy changes out of the repository, even if you have read access to that repository.
+Pull Requests are a feature available in GitHub. It establishes a "request" system to collaborators, which allows them to discuss, change and add commits before they are merged into the main branch. This means that instead of the changes just being merged with no revision, they are carefully reviewed by relevant parties and adjusted before they are merged.
 
 <!--TODO: This answer is SO wrong, I think we need to fix it! -->
 
