@@ -10,6 +10,8 @@ A pull request is a way to suggest changes to a repository. When you create a pu
 
 <!-- TODO: Add information on PRs and forks. -->
 
+Forking refers to cloning a repository on GitHub to another repository on GitHub; essentially, your own personal copy of the repository. At the time of the creation, it creates a fork that remembers and links back to the original fork.
+
 ## Set up your environment
 
 ### Create a local copy of the repository
@@ -64,7 +66,7 @@ It does not provide a URL for pull because pulling is the same as a fetch and a 
 
 ### Why are pull requests called "Pull Requests"? (wrong answer)
 
-Pull requests are so named basically because you are asking to _pull_ changes from a remote to your local repository. And that's because you have to ask permission to copy changes out of the repository, even if you have read access to that repository.
+Pull requests are so named basically because you are asking to pull changes from a remote to your local repository. And that's because you have to ask permission to copy changes out of the repository, even if you have read access to that repository.
 
 <!--TODO: This answer is SO wrong, I think we need to fix it! -->
 
